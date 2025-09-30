@@ -1,0 +1,48 @@
+*{
+    background-color: #2c160f;
+    margin: 0px;
+}
+ 
+
+#container{
+    background-color: #b4a388;
+    height:400px;
+    width:400px;
+    position: relative;
+    top:150px;
+    left:400px;
+    
+}
+
+img{
+    position: absolute;
+    height:200px;
+    width:200px;
+    top:100px;
+    left: 100px;
+
+    
+}
+
+#myself{
+    font-family: "Quintessential", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: inline;
+    position:relative;
+    top:50px;
+    left:480px;
+    background-color: #b4a388;
+
+}
+
+#to{
+     font-family: "Quintessential", serif;
+    font-weight: 400;
+    font-style: normal;
+    display: inline;
+    position:relative;
+    top:85px;
+    left:355px;
+    background-color: #b4a388;   
+}
