@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container{
+    height: 400px;
+    width:400px;
+    background-color: burlywood;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap:10px;
+}
+
+.first{
+    background-color: brown;
+    
+}
+
+.second{
+    background-color: coral;
+}
+
+.third{
+    background-color: rgb(109, 59, 59);
+}
+
+.forth{
+    background-color: rgb(235, 92, 92);
+}

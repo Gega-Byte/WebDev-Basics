@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+
+.container{
+    height: 400px;
+    width:400px;
+    background-color: pink;
+    display:flex;
+}
+
+.box{
+    flex-direction:column;
+    
+}
+
+
+.first{
+    height:350px;
+    width:150px;
+    background-color: aquamarine;
+    margin:20px;
+}
+
+.secondfirst{
+    height:165px;
+    width:150px;
+    background-color: aquamarine;
+    margin:20px;
+}
+
+.secondsecond{
+    height:165px;
+    width:150px;
+    background-color: aquamarine;
+    margin:20px;
+}
